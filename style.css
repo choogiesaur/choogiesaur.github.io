@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: gainsboro;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+img {
+    border-radius: 25px;
+}
